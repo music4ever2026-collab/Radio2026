@@ -21,7 +21,7 @@ static constexpr const lgfx::IFont* FONT_DIGITS  = &lgfx::fonts::Font7;  // 48px
 #define AUTHORS_LINE1  "Authoren: PU2CLR (Ricardo Caratti),"
 #define AUTHORS_LINE2  "Volos Projects, Ralph Xavier, Sunnygold,"
 #define AUTHORS_LINE3  "Goshante, G8PTN (Dave), R9UCL (Max Arnold),Marat Fayzullin"
-#define AUTHORS_LINE4  "Uebersetzung und Modifizierung - 13HN2709 - Andre Schlueter"
+#define AUTHORS_LINE4  "UEBERSETZUNG UND MODS- 13HN2709 - Andre Schlueter"
 
 #define VER_APP        242  // Firmware version
 #define VER_OTA          1  // OTA compatibility; bump when a full USB flash is required
