@@ -153,7 +153,7 @@ jobs:
         with:
           pattern: 'ats-mini-*'
           merge-multiple: true
-          path: artifact
+          path: .
       - name: Archive the build artifacts
         run: cd "artifact" && find . -mindepth 1 -maxdepth 1 -type d -exec sh -c 'zip -r "../${1%/}.zip" "$1"' _ {} \;
       - name: Create release
