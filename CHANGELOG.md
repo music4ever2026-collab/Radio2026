@@ -4,7 +4,10 @@ The user manual is available at <https://esp32-si4732.github.io/ats-mini/manual.
 
 <!-- towncrier release notes start -->
 
-## 2.42 (2026-09-30)
+## 2.42de (2026-10-01)
+
+
+- Zum Teil ins deutsche übersetzt 
 
 
 ### Added
