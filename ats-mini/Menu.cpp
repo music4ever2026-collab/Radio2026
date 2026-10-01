@@ -165,7 +165,7 @@ static const char *settings[] =
   "TCP Port",
   "Bluetooth",
   "Wi-Fi",
-  "Über",
+  "UEBER",
 };
 
 //
